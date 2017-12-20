@@ -7,3 +7,12 @@ C:\Users\MJ\MyGit\MQTT\My-MQTT\ConsoleApplication1\MQTT-Client\bin\Debug\MQTT-Cl
 C:\Users\MJ\MyGit\MQTT\My-MQTT\ConsoleApplication1\MQTT-Client\bin\Debug\M2Mqtt.dll
 C:\Users\MJ\MyGit\MQTT\My-MQTT\ConsoleApplication1\MQTT-Client\obj\Debug\MQTT-Client.exe
 C:\Users\MJ\MyGit\MQTT\My-MQTT\ConsoleApplication1\MQTT-Client\obj\Debug\MQTT-Client.pdb
+C:\Users\MJ\MyGit\FourCommunicationProtocols\My-MQTT\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.exe
+C:\Users\MJ\MyGit\FourCommunicationProtocols\My-MQTT\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.pdb
+C:\Users\MJ\MyGit\FourCommunicationProtocols\My-MQTT\MQTT-Client\MQTT-Client\bin\Debug\MQTT-Client.exe
+C:\Users\MJ\MyGit\FourCommunicationProtocols\My-MQTT\MQTT-Client\MQTT-Client\bin\Debug\MQTT-Client.pdb
+C:\Users\MJ\MyGit\FourCommunicationProtocols\My-MQTT\MQTT-Client\MQTT-Client\bin\Debug\M2Mqtt.dll
+C:\Users\MJ\MyGit\FourCommunicationProtocols\My-MQTT\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.csprojResolveAssemblyReference.cache
+C:\Users\MJ\MyGit\FourCommunicationProtocols\My-MQTT\MQTT-Client\MQTT-Client\obj\Debug\MQTT_Client.Form1.resources
+C:\Users\MJ\MyGit\FourCommunicationProtocols\My-MQTT\MQTT-Client\MQTT-Client\obj\Debug\MQTT_Client.Properties.Resources.resources
+C:\Users\MJ\MyGit\FourCommunicationProtocols\My-MQTT\MQTT-Client\MQTT-Client\obj\Debug\MQTT-Client.csproj.GenerateResource.Cache

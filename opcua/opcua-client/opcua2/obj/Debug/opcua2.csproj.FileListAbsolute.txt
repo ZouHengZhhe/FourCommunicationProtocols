@@ -1,0 +1,9 @@
+C:\Users\MJ\MyGit\opcua\opcua2\bin\Debug\opcua2.exe.config
+C:\Users\MJ\MyGit\opcua\opcua2\bin\Debug\opcua2.exe
+C:\Users\MJ\MyGit\opcua\opcua2\bin\Debug\opcua2.pdb
+C:\Users\MJ\MyGit\opcua\opcua2\obj\Debug\opcua2.csprojResolveAssemblyReference.cache
+C:\Users\MJ\MyGit\opcua\opcua2\obj\Debug\opcua2.Form1.resources
+C:\Users\MJ\MyGit\opcua\opcua2\obj\Debug\opcua2.Properties.Resources.resources
+C:\Users\MJ\MyGit\opcua\opcua2\obj\Debug\opcua2.csproj.GenerateResource.Cache
+C:\Users\MJ\MyGit\opcua\opcua2\obj\Debug\opcua2.exe
+C:\Users\MJ\MyGit\opcua\opcua2\obj\Debug\opcua2.pdb

@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "shangfei-WebSocket.data.unityweb",
+"asmCodeUrl": "shangfei-WebSocket.asm.code.unityweb",
+"asmMemoryUrl": "shangfei-WebSocket.asm.memory.unityweb",
+"asmFrameworkUrl": "shangfei-WebSocket.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

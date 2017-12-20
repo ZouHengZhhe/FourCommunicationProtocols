@@ -60,7 +60,10 @@ namespace MQTT_Client
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
-            client.Disconnect();
+            if (client != null && client.IsConnected)
+            {
+                client.Disconnect();
+            }
         }
 
         /// <summary>

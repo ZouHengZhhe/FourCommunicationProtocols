@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opcua1", "opcua1\opcua1.csproj", "{265447D2-51E4-4FA6-AC47-DAE8682BBBDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opcua2", "opcua2\opcua2.csproj", "{1BE28BD4-E4FF-4272-B623-6E042B02DC87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opcua-ConsoleApplication1", "opcua-ConsoleApplication1\opcua-ConsoleApplication1.csproj", "{6FE996C8-2024-4E20-9320-E7FE4FA66231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{265447D2-51E4-4FA6-AC47-DAE8682BBBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265447D2-51E4-4FA6-AC47-DAE8682BBBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265447D2-51E4-4FA6-AC47-DAE8682BBBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265447D2-51E4-4FA6-AC47-DAE8682BBBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE28BD4-E4FF-4272-B623-6E042B02DC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE28BD4-E4FF-4272-B623-6E042B02DC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE28BD4-E4FF-4272-B623-6E042B02DC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE28BD4-E4FF-4272-B623-6E042B02DC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE996C8-2024-4E20-9320-E7FE4FA66231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE996C8-2024-4E20-9320-E7FE4FA66231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE996C8-2024-4E20-9320-E7FE4FA66231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE996C8-2024-4E20-9320-E7FE4FA66231}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

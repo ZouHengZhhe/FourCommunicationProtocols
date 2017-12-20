@@ -1,0 +1,7 @@
+C:\Users\MJ\MyGit\Modbus\ModbusClient\ModbusClient1\bin\Debug\ModbusClient1.exe
+C:\Users\MJ\MyGit\Modbus\ModbusClient\ModbusClient1\bin\Debug\ModbusClient1.pdb
+C:\Users\MJ\MyGit\Modbus\ModbusClient\ModbusClient1\obj\Debug\ModbusClient1.csprojResolveAssemblyReference.cache
+C:\Users\MJ\MyGit\Modbus\ModbusClient\ModbusClient1\obj\Debug\ModbusClient1.exe
+C:\Users\MJ\MyGit\Modbus\ModbusClient\ModbusClient1\obj\Debug\ModbusClient1.pdb
+C:\Users\MJ\MyGit\FourCommunicationProtocols\Modbus\ModbusClient\ModbusClient1\obj\Debug\ModbusClient1.exe
+C:\Users\MJ\MyGit\FourCommunicationProtocols\Modbus\ModbusClient\ModbusClient1\obj\Debug\ModbusClient1.pdb
